@@ -1,0 +1,5 @@
+C:\Users\soare\Desktop\projetosProgramas\dotnet\Navegacaohttps\obj\Debug\netcoreapp3.1\Navegacaohttps.csprojAssemblyReference.cache
+C:\Users\soare\Desktop\projetosProgramas\dotnet\Navegacaohttps\obj\Debug\netcoreapp3.1\Navegacaohttps.AssemblyInfoInputs.cache
+C:\Users\soare\Desktop\projetosProgramas\dotnet\Navegacaohttps\obj\Debug\netcoreapp3.1\Navegacaohttps.AssemblyInfo.cs
+C:\Users\soare\Desktop\projetosProgramas\dotnet\Navegacaohttps\obj\Debug\netcoreapp3.1\Navegacaohttps.csproj.CoreCompileInputs.cache
+C:\Users\soare\Desktop\projetosProgramas\dotnet\Navegacaohttps\obj\Debug\netcoreapp3.1\Navegacaohttps.MvcApplicationPartsAssemblyInfo.cache
