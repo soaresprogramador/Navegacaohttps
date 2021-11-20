@@ -17,7 +17,7 @@ namespace Navegacaohttps.Data
             {
                 var settings = MongoClientSettings.FromUrl(new MongoUrl(configuration["ConnectionString"]));
                 var client = new MongoClient(settings);
-                DB = client.GetDatabase(configuration["NomeBanco"]);
+                DB = client.GetDatabase(configuration["NOMEBANCO"]);
                 MapClasses();
             }
             catch (Exception ex)
